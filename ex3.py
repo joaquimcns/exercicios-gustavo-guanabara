@@ -6,4 +6,4 @@ num2 = int(input('Segundo Número: '))
 
 soma = num1 + num2
 
-print('A soma é ', soma)
+print('A soma é {}.' .format(soma))
